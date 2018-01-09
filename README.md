@@ -129,28 +129,19 @@ Do update this list by sending a PR and let's try to maintain the Alphabetical o
   <td>kucc@ku.edu.np</td>
   <td><a href="https://github.com/kucc1997">github.com/kucc1997</a></td>
   </tr>
-<tr>
-  <td>Lumbini ICT OSK</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  </tr>
-  <tr>
   <td>Mozilla Nepal</td>
   <td>Kathmandu</td>
   <td></td>
-  <td>Avask Mulmi</td>
+  <td>Avash Mulmi</td>
   <td></td>
     <td><a href="http://mozilla-nepal.org">mozilla-nepal.org</a></td>
   </tr>
     <td>Nepal Open Source Club (NOSK)</td>
-  <td>Kathmandu</td>
+  <td>Balkumari, Lalitpur, Nepal</td>
   <td></td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td>info@nosk.org.np</td>
+  <td><a href="http://openosk.github.io">http://openosk.github.io</a></td>
   </tr>
   <tr>
   <td>Open Knowledge Nepal</td>
@@ -158,7 +149,7 @@ Do update this list by sending a PR and let's try to maintain the Alphabetical o
   <td>2016</td>
   <td><a href="https://twitter.com/nikeshbalami">Nikesh Balami</a></td>
   <td>info@okn.org</td>
-  <td><a href="http://oknp.org">np.okfn.org</a></td>
+  <td><a href="http://oknp.org">www.oknp.org</a></td>
   </tr>
     <tr>
   <td>OSM Nepal</td>
@@ -194,10 +185,10 @@ Do update this list by sending a PR and let's try to maintain the Alphabetical o
   </tr>
   <tr>
   <td>Robotic Association of Nepal</td>
-  <td>Kathmandu</td>
-  <td></td>
+  <td>Pulchowk-3, Lalitpu</td>
+  <td>2010</td>
   <td>Bikash Gurung</td>
-  <td></td>
-  <td></td>
+  <td>info@ran.org.np</td>
+    <td><a href="http://ran.org.np">http://ran.org.np</a></td>
   </tr>
 </table>
